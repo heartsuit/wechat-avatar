@@ -1,0 +1,22 @@
+{
+  "name": "wechaty-demo",
+  "version": "1.0.0",
+  "description": "play with wechat personal account",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "avatar"
+  ],
+  "author": "heartsuit",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.20.3",
+    "superagent": "^3.5.2",
+    "uuid": "^3.2.1",
+    "wechaty": "^0.14.4"
+  }
+}
